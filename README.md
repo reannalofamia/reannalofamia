@@ -10,4 +10,3 @@
 reannalofamia/reannalofamia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![image](https://github.com/user-attachments/assets/073c3113-f277-48db-8856-d201264f5804)
