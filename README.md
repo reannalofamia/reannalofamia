@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @reannalofamia
+#👋 Hi, I’m @reannalofamia
+=
+
 - 😄 Pronouns: she/her
 - 📫 How to reach me: LinkedIn @ Reanna Lofamia or via my school email at rplofamia@student.apc.edu.ph
 - 🌱 I'm currently learning assembly, networking, scripting, security in Kali, and web development.
