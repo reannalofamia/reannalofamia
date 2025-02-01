@@ -1,4 +1,4 @@
-#👋 Hi, I’m @reannalofamia
+👋 Hi, I’m @reannalofamia
 =
 
 - 😄 Pronouns: she/her
